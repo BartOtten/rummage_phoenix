@@ -54,7 +54,7 @@ end
       {:inch_ex, "~> 0.5", only: [:dev, :test, :docs]},
       {:phoenix, "~> 1.3.0-rc"},
       {:postgrex, ">= 0.0.0", only: [:test]},
-      {:rummage_ecto, "~> 1.1.0"},
+      {:rummage_ecto, "== 1.0.0"},
     ]
   end
 
